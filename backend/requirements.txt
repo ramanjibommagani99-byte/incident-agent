@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlmodel
+pydantic
+python-dotenv
+httpx
+scikit-learn
+pandas
+numpy
+drain3
+apscheduler
+faker
+openai
